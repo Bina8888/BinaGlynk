@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Glynk</string>
+    <string name="tab_text_1">SPORTS</string>
+    <string name="tab_text_2">TECHNOLOGIES</string>
+    <string name="tab_text_3">DESIGN</string>
+    <string name="tab_text_4">POLITICS</string>
+    <string name="tab_text_5">MOVIES</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Design_fragment">Design Screen</string>
+    <string name="Movies_fragment">Movies Screen</string>
+    <string name="Politics_fragment">Politics Screen</string>
+    <string name="Sports_fragment">Sports Screen</string>
+    <string name="Technologies_fragment">Technologies Screen</string>
+</resources>
